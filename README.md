@@ -1,2 +1,4 @@
 # certdefi
-We enable educational institutions to issue certificates to participants in the blockchain with ease. 
+This service will allow any institution to easily and safely issue non-transferable blockchain-based certificates.
+It will enable the certificate holder to provide proof of the rightful origin of the certificate.
+
