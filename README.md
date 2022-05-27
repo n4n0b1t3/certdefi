@@ -1,3 +1,12 @@
+# Location of repositories
+Due to the hackathon regulation, we have decided to leave the repos at their original location as follows:
+
+### Everything Smart Contract related
+(Vasilys Repo)[https://github.com/cromewar/Learning-Certicates-Chainlink-Hackathon]
+
+### Everything Front-end related
+(Leos Repo)[https://github.com/leopacheco18/hackathon-frontend]
+
 # certdefi
 This service will allow any institution to easily and safely issue non-transferable blockchain-based certificates.
 It will enable the certificate holder to provide proof of the rightful origin of the certificate.
