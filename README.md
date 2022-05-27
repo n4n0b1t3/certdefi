@@ -5,7 +5,7 @@ Due to the hackathon regulation, we have decided to leave the repos at their ori
 [Vasilys Repo](https://github.com/cromewar/Learning-Certicates-Chainlink-Hackathon)
 
 ### Everything Front-end related
-(Leos Repo)[https://github.com/leopacheco18/hackathon-frontend]
+[Leos Repo](https://github.com/leopacheco18/hackathon-frontend)
 
 # certdefi
 This service will allow any institution to easily and safely issue non-transferable blockchain-based certificates.
